@@ -1,4 +1,4 @@
-
+![logo](https://github.com/f-faizi/f-faizi/blob/main/faizi.gif)
 <h1 align="center">Hello, I'm Faizullah faizi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan.</h3>
 <img align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3Eqa&psig=AOvVaw2-dUZdyWGXAZyIcrqvroF0&ust=1686279597202000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiaw6HXsv8CFQAAAAAdAAAAABAl">
