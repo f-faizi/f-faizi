@@ -1,7 +1,7 @@
 ![logo](https://github.com/f-faizi/f-faizi/blob/main/faizi.gif)
 <h1 align="center">Hello, I'm Faizullah faizi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan.</h3>
-<img align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3Eqa&psig=AOvVaw2-dUZdyWGXAZyIcrqvroF0&ust=1686279597202000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiaw6HXsv8CFQAAAAAdAAAAABAl">
+<img align="right" alt="coding" width="200" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3Eqa&psig=AOvVaw2-dUZdyWGXAZyIcrqvroF0&ust=1686279597202000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiaw6HXsv8CFQAAAAAdAAAAABAl](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fcreative%2Bcoding&psig=AOvVaw1aBcyWeE4bbVPK16i55brz&ust=1686296454841000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj6v4OWs_8CFQAAAAAdAAAAABAI)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-faizi&label=Profile%20views&color=0e75b6&style=flat" alt="f-faizi" /> </p>
 
